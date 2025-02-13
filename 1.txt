@@ -1,1 +1,3 @@
-Hola mundo
+<<<<<<< HEAD
+Hola mundo y Adios mundo
+>>>>>>> v0.2
